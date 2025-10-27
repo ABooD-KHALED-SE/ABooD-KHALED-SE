@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 <!--
 **ABooD-KHALED-SE/ABooD-KHALED-SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
